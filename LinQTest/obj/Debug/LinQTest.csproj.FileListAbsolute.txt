@@ -1,0 +1,16 @@
+C:\Users\aaa\source\repos\LinQTest\LinQTest\bin\Debug\LinQTest.exe.config
+C:\Users\aaa\source\repos\LinQTest\LinQTest\bin\Debug\LinQTest.exe
+C:\Users\aaa\source\repos\LinQTest\LinQTest\bin\Debug\LinQTest.pdb
+C:\Users\aaa\source\repos\LinQTest\LinQTest\obj\Debug\LinQTest.csproj.AssemblyReference.cache
+C:\Users\aaa\source\repos\LinQTest\LinQTest\obj\Debug\LinQTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\aaa\source\repos\LinQTest\LinQTest\obj\Debug\LinQTest.csproj.CoreCompileInputs.cache
+C:\Users\aaa\source\repos\LinQTest\LinQTest\obj\Debug\LinQTest.exe
+C:\Users\aaa\source\repos\LinQTest\LinQTest\obj\Debug\LinQTest.pdb
+C:\Users\Nguyen Huu Hieu\source\repos\LinQTest\LinQTest\bin\Debug\LinQTest.exe.config
+C:\Users\Nguyen Huu Hieu\source\repos\LinQTest\LinQTest\bin\Debug\LinQTest.exe
+C:\Users\Nguyen Huu Hieu\source\repos\LinQTest\LinQTest\bin\Debug\LinQTest.pdb
+C:\Users\Nguyen Huu Hieu\source\repos\LinQTest\LinQTest\obj\Debug\LinQTest.csproj.AssemblyReference.cache
+C:\Users\Nguyen Huu Hieu\source\repos\LinQTest\LinQTest\obj\Debug\LinQTest.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nguyen Huu Hieu\source\repos\LinQTest\LinQTest\obj\Debug\LinQTest.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Huu Hieu\source\repos\LinQTest\LinQTest\obj\Debug\LinQTest.exe
+C:\Users\Nguyen Huu Hieu\source\repos\LinQTest\LinQTest\obj\Debug\LinQTest.pdb
